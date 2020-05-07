@@ -87,11 +87,11 @@ class About extends Component{
                                         <div className={"card-body"}>
                                             <ul className={"list-group"}>
                                                 <li className={"list-group-item"}>
-                                                    yüzmek
+                                                    Poligonda Atış
                                                     <img id={"image"} src={this.state.images.url1} alt=""/>
                                                 </li>
                                                 <li className={"list-group-item"}>
-                                                    dans etmek
+                                                    Kitap Okumak
                                                     <img id={"image"} src={this.state.images.url2} alt=""/>
                                                 </li>
                                             </ul>

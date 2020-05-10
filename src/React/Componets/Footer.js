@@ -10,7 +10,7 @@ class Footer extends Component {
                         <div className="col">
                             <h4 className="text-uppercase">DİĞER BAĞLANTILAR</h4>
                             <p><a href={"#"}>
-                                Hizmet Standartları
+                                Web Teknolojileri BSM 104
                             </a></p>
                             <p>
                                 <a href="#">Site Ağacı</a>
@@ -21,47 +21,26 @@ class Footer extends Component {
                         <div className="col ">
                             <h4 className="text-uppercase">Sosyal Medya</h4>
                             <ul >
-
-                                <li>
-                                    <button className="btn btn-outline btn-social">
-                                        <i className="fab fa-fw fa-facebook-f"></i>
-                                    </button>
-                                </li>
-                                <li>
-                                    <button className="btn btn-outline btn-social">
-                                        <i className="fab fa-fw fa-google-plus-g"></i>
-                                    </button>
-                                </li>
-
                                 <li>
                                     <button className="btn btn-outline btn-social">
                                         <i className="fab fa-fw fa-twitter"></i>
                                     </button>
                                 </li>
-
                                 <li>
                                     <button className="btn btn-outline btn-social">
                                         <i className="fab fa-fw fa-linkedin-in"></i>
                                     </button>
                                 </li>
-                                <li>
-                                    <button className="btn btn-outline btn-social">
-                                        <i className="fab fa-fw fa-dribbble"></i>
-                                    </button>
-                                </li>
-
-
                             </ul>
                         </div>
                         <div className="col">
                             <h4 className="text-uppercase">İletişim</h4>
                             <p>
-                                Cumhuriyet Cad.
-                                İsmail Kahraman Kültür Mrk.
-                                Kat:2 RİZE
+                                Bayındırlık Kalıcı Konutları
+                                İzmit/Kocaeli
 
                             </p>
-                            <p>+90 (464) 2130426</p>
+                            <p>+90 (XXX) XXX XX XX</p>
                         </div>
 
                     </div>
@@ -69,7 +48,7 @@ class Footer extends Component {
                 <div className="copyright">
                     <div className="">
                         <small>
-                            Copyright © Your Website 2018
+                            SAKARYA ÜNİVERSİTESİ BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
                         </small>
                     </div>
                 </div>

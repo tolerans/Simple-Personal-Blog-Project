@@ -25,6 +25,9 @@ export default function inputReducer(state=initialState,action) {
         case "date":
             return {...state,date:action.payload};
 
+        case "clear":
+            return initialState;
+
         case "infos":
             return initialState;
         default:

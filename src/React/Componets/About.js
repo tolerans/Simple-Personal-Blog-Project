@@ -19,9 +19,10 @@ const Animation=posed.div({
 class About extends Component{
     state= {
         images:{
-            url1:"https://i.pinimg.com/originals/91/eb/7f/91eb7fd555ce1b88de21584b0eccd486.jpg",
-            url2:"https://i4.hurimg.com/i/hurriyet/75/1110x740/5b0e5ddabf49c21958da2d8a.jpg",
-            url3:"https://img.haberler.com/haber/052/ozel-havalandirma-sistemli-atis-poligonu-hizmete-5504052_4781_o.jpg"
+            url1:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3e%2FFresh_journey.jpg%2F1200px-Fresh_journey.jpg&f=1&nofb=1",
+            url2:"https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.blogto.com%2Farticles%2F20160411-crossfitykv2048-06.jpg%3Fwidth%3D1300%26quality%3D70&f=1&nofb=1",
+            url3:"https://img.haberler.com/haber/052/ozel-havalandirma-sistemli-atis-poligonu-hizmete-5504052_4781_o.jpg",
+            url4:"https://www.uzungol.net.tr/wp-content/uploads/2019/06/dag-tirmanisi.jpg"
         },
         visibleHb:false,
         visibleEtk:false
@@ -58,11 +59,11 @@ class About extends Component{
                                         <div className={"card-body"}>
                                             <ul className={"list-group"}>
                                                 <li className={"list-group-item"}>
-                                                    yüzmek
+                                                    Yüzme Sporu
                                                     <img id={"image"} src={this.state.images.url1} alt=""/>
                                                 </li>
                                                 <li className={"list-group-item"}>
-                                                    dans etmek
+                                                    Crossfit
                                                     <img id={"image"} src={this.state.images.url2} alt=""/>
                                                 </li>
                                             </ul>
@@ -92,8 +93,8 @@ class About extends Component{
                                                     <img id={"image"} src={this.state.images.url3} alt=""/>
                                                 </li>
                                                 <li className={"list-group-item"}>
-                                                    Kitap Okumakls
-                                                    <img id={"image"} src={this.state.images.url2} alt=""/>
+                                                    Dağ Tırmanışı
+                                                    <img id={"image"} src={this.state.images.url4} alt=""/>
                                                 </li>
                                             </ul>
                                         </div>

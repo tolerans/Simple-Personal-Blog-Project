@@ -40,14 +40,7 @@ const Cv = () => {
                                     <li className={"list-group-item"}>JavaScript</li>
                                 </ul>
                             </div>
-                            <div className={"card-body"}>
-                                <h4 className={"card-title"}>Sertifikalar</h4>
-                                <ul className={"list-group"}>
-                                    <li className={"list-group-item"}>Ağ Geliştirme ve Uyum eğitimi</li>
-                                    <li className={"list-group-item"}>Zararlı Yazılım Analizine Giriş</li>
-                                    <li className={"list-group-item"}>Linux Çekirdeğine giriş</li>
-                                </ul>
-                            </div>
+                           
 
                         </div>
                         <div className={"col-md-6"}>
@@ -68,6 +61,14 @@ const Cv = () => {
                             <div className={"card-body"}>
                                 <h4 className={"card-title"}>Yabancı dil</h4>
                                 <p>İngilizce : Çok iyi</p>
+                            </div>
+                            <div className={"card-body"}>
+                                <h4 className={"card-title"}>Sertifikalar</h4>
+                                <ul className={"list-group"}>
+                                    <li className={"list-group-item"}>Ağ Geliştirme ve Uyum eğitimi</li>
+                                    <li className={"list-group-item"}>Zararlı Yazılım Analizine Giriş</li>
+                                    <li className={"list-group-item"}>Linux Çekirdeğine giriş</li>
+                                </ul>
                             </div>
                         </div>
 

@@ -20,7 +20,8 @@ class About extends Component{
     state= {
         images:{
             url1:"https://i.pinimg.com/originals/91/eb/7f/91eb7fd555ce1b88de21584b0eccd486.jpg",
-            url2:"https://i4.hurimg.com/i/hurriyet/75/1110x740/5b0e5ddabf49c21958da2d8a.jpg"
+            url2:"https://i4.hurimg.com/i/hurriyet/75/1110x740/5b0e5ddabf49c21958da2d8a.jpg",
+            url3:"https://img.haberler.com/haber/052/ozel-havalandirma-sistemli-atis-poligonu-hizmete-5504052_4781_o.jpg"
         },
         visibleHb:false,
         visibleEtk:false
@@ -88,10 +89,10 @@ class About extends Component{
                                             <ul className={"list-group"}>
                                                 <li className={"list-group-item"}>
                                                     Poligonda Atış
-                                                    <img id={"image"} src={this.state.images.url1} alt=""/>
+                                                    <img id={"image"} src={this.state.images.url3} alt=""/>
                                                 </li>
                                                 <li className={"list-group-item"}>
-                                                    Kitap Okumak
+                                                    Kitap Okumakls
                                                     <img id={"image"} src={this.state.images.url2} alt=""/>
                                                 </li>
                                             </ul>

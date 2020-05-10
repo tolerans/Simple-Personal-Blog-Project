@@ -7,49 +7,45 @@ const Cv = () => {
                 <div  className={"card"}>
                     <div id={"cvheader"} className={"card-header d-flex justify-content-between"}>
                         <h2 id={"cvname"}>Ali Yılmaz </h2>
-                        <img id={"cvimage"} src="https://miro.medium.com/max/600/1*HMwiJdVhjdIaaqh536gjGA.jpeg" alt="" />
+                        <img id={"cvimage"} src="https://fotograf.sabis.sakarya.edu.tr/Fotograf/dd4f38aff26e854c45ee90de47edf767" alt="" />
                     </div>
                     <div className={"row"}>
                         <div className={"col-md-6"}>
                             <div className={"card-body"}>
                                 <h4 className={"card-title"}>Kişisel Bilgiler</h4>
                                 <p>Ad Soyad  : Ali Yılmaz</p>
-                                <p>Doğum Tarihi  : 06.09.1995</p>
+                                <p>Doğum Tarihi  : 01.01.1996</p>
                                 <p>Doğum Yeri  : Rize</p>
                                 <p>Medeni Durumu  : Bekar</p>
                             </div>
                             <div className={"card-body"}>
                                 <h4 className={"card-title"}>İletişim Bilgileri</h4>
-                                <p>Adres  : Gazeteci kazım ertek
-                                    sok/akçakoca konutları/b1
-                                    blok /kat-8/daire-34/
+                                <p>Adres  : PK:41060
                                     İzmit/Kocaeli</p>
-                                <p>Cep  : 06.09.1995</p>
-                                <p>E-Posta : ali@gmail.com</p>
+                                <p>Cep  : 05xx xxx xxxx </p>
+                                <p>E-Posta : aliyilmaazs@protonmail.ch</p>
                             </div>
                             <div className={"card-body"}>
                                 <h4 className={"card-title"}>Eğitim  Bilgileri</h4>
-                                <p>Adres  : Gazeteci kazım ertek</p>
+                                <p>2010 - 2014 Haydarpaşa Anadolu Lisesi (Üsküdar/İstanbul)</p>
+                                <p>2015 - 2019 Kocaeli Üniversitesi Bilgisayar Mühendisliği</p>
+                               
                             </div>
                             <div className={"card-body"}>
                                 <h4 className={"card-title"}>Yetkinlikler</h4>
                                 <ul className={"list-group"}>
                                     <li className={"list-group-item"}>Python</li>
-                                    <li className={"list-group-item"}>C++</li>
-                                    <li className={"list-group-item"}>C#</li>
-                                    <li className={"list-group-item"}>Java</li>
+                                    <li className={"list-group-item"}>C/C++</li>
+                                    <li className={"list-group-item"}>Rust</li>
                                     <li className={"list-group-item"}>JavaScript</li>
                                 </ul>
                             </div>
                             <div className={"card-body"}>
                                 <h4 className={"card-title"}>Sertifikalar</h4>
                                 <ul className={"list-group"}>
-                                    <li className={"list-group-item"}>İTÜ Çekirdek Ekibi üyeliği</li>
-                                    <li className={"list-group-item"}>2020 Mustafa Akgül linux
-                                        kış kampı katılım belgesi</li>
-                                    <li className={"list-group-item"}>Mustafa Murat Coşkun
-                                        Python programlama dili
-                                        kursu belgesi</li>
+                                    <li className={"list-group-item"}>Ağ Geliştirme ve Uyum eğitimi</li>
+                                    <li className={"list-group-item"}>Zararlı Yazılım Analizine Giriş</li>
+                                    <li className={"list-group-item"}>Linux Çekirdeğine giriş</li>
                                 </ul>
                             </div>
 
@@ -57,50 +53,21 @@ const Cv = () => {
                         <div className={"col-md-6"}>
                             <div className={"card-body"}>
                                 <h4 className={"card-title"}>Özet Bilgi</h4>
-                                <p>Kocaeli üniversitesi bilgisayar
-                                    mühendisliği bölümünden
-                                    Haziranayrıldım ,okulumun son
-                                    dönemi ve mezun olduktan
-                                    sonra inşaat mühendisliği
-                                    alanında çalışmak
-                                    istemediğimi ve kendimi
-                                    yazılım alanında geliştirmek
-                                    istediğimi farkettim. Bu
-                                    nedenle Gebze Teknik
-                                    Üniversitesi Bilişim
-                                    sistemleri 2. Öğretim tezsiz
-                                    alanında yüksek lisans
-                                    yapmak
-                                    istiyorum.Kendimden kısaca
-                                    bahsedecek olursam,  ,son 6 aylık süreçte
-                                    başta nesne tabanlı
-                                    yazılımlardan python ile
-                                    başlayıp kodlama mantığını
-                                    kavradıktan sonra Big data
-                                    alanına yöneldim.Big data
-                                    konusunu kavrayabilmek
-                                    aynı zamanda kendimi bu
-                                    alanda geliştirebilmek için
-                                    erken konular olan Machine
-                                    learning ve deep learning
-                                    yöntemlerinde gerek
-                                    udemydeki kurslar gerekse
-                                    bu alanda çalışma yapan
-                                    arkadaşlarımın fikirleri ve
-                                    beni yönlendirmesiyle ve
-                                    gerçekten istekli ve ısrarlı
-                                    çalışmalarımla belli bir
-                                    seviyeye geldim.Amacım
-                                    yazılım alanında büsbütün
-                                    bir eğitim almak ve
-                                    belirlediğim hedeflere bu
-                                    alanda sizin gibi kaliteli
-                                    hocalarımın kendisiyle ve
-                                    desteğiyle birlikte yürümek.</p>
+                                <p>Bilgisayar Mühendisliğini tercih etmemdeki ana sebebim en
+                                    başından beri siber güvenlik konusu olmuştur.Sürekli öğrenimi
+                                    açık kendimi geliştirmekten çekinmeyen ortamın dinamikliğine
+                                    kendimi hazırlamaya çalışan biriyim.Kariyer hedefim Zararlı
+                                    yazılım analizi ve tehtit istihbaratı konusunda ofansif alan ağırlıklı
+                                    kendi araçlarını yazabilen güvenlik alanına geniş açıdan bakan
+                                    önemli biri olmak istiyorum.Devletime bu konuda katma değer
+                                    kazandırmak için canı gönülden uğraşıyorum, Daha öğrenicek
+                                    çok şeyim olduğunu biliyorum o yüzden bu alanda her tecrübeye
+                                    ihtiyacım var.
+                                </p>
                             </div>
                             <div className={"card-body"}>
                                 <h4 className={"card-title"}>Yabancı dil</h4>
-                                <p>İngilizce : ADVANCED</p>
+                                <p>İngilizce : Çok iyi</p>
                             </div>
                         </div>
 
